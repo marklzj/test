@@ -1,6 +1,6 @@
 4version
 control
-change user name
+mhange user name
 sync to remote
 edit from remote
 clone copy
